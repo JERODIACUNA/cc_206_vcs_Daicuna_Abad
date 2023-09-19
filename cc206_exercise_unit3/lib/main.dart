@@ -1,3 +1,5 @@
+//{Member 1 name}: Jero Diacuna {if God really exist he shuld beg for my forgiveness}
+
 import 'package:flutter/material.dart';
 
 void main() {
