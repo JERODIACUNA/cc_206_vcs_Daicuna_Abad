@@ -1,4 +1,4 @@
-//{Member 1 name}: Jero Diacuna {if God really exist he shuld beg for my forgiveness}
+//{Member 1 name}: Jero Diacuna {if God really exist he should beg for my forgiveness}
 //{Member 2 name}: John  Kyle Abad {Darkness can also be a friend}
 import 'package:flutter/material.dart';
 
